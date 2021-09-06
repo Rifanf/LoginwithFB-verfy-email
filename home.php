@@ -11,5 +11,6 @@
 </head>
 <body>
 	<h1><?="$name"?></h1>
+	<h2>Uji coba github</h2>
 </body>
 </html>
